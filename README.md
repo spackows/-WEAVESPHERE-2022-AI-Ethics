@@ -2,11 +2,11 @@
 **AI Ethics: The Content Design Perspective**
 
 Sarah Packowski - IBM - ( spackows@ca.ibm.com )<br/>
-Heather Hagerty - IBM - (  )<br/>
-Kelly Xiang - IBM - (  )<br/>
-Claudia Elbourn - IBM - (  )<br/>
-Sara Elsharawy - IBM - (  )<br/>
-James Walsh - IBM - (  )
+Heather Hagerty - IBM - ( hhagerty@us.ibm.com )<br/>
+Kelly Xiang - IBM - ( Kelly.Xiang@ibm.com )<br/>
+Sara Elsharawy - IBM - ( saraelsh@ibm.com )<br/>
+James Walsh - IBM - ( James.Walsh18@ibm.com )</br>
+Claudia Elbourn - IBM - ( crelbour@us.ibm.com )
 
 <p>&nbsp;</p>
 
